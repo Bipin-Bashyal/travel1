@@ -29,7 +29,7 @@
             />
           </svg>
         </div>
-        <div>Globe Express</div>
+        <div>BB Travels</div>
       </div>
       <div>
         <div class="active">Home</div>
